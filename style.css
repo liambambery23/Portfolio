@@ -6,6 +6,11 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
+#contact-form {
+    background-color: lightgray;
+    padding: 20px;
+}
+
 
 @media only screen and (max-width: 600px) {
 .liam-img {
