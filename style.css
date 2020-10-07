@@ -6,10 +6,11 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
-  #liam-image {
-     border: 1px solid #dddddd;
-     border-radius: 4px;
-     padding: 5px;
-     width: 200px;
 
-} 
+@media only screen and (max-width: 600px) {
+.liam-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+}
