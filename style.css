@@ -1,4 +1,15 @@
-.navbar-toggler-icon {
-    align
-    
+.navbar-brand {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+.nav-item {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+  #liam-image {
+     border: 1px solid #dddddd;
+     border-radius: 4px;
+     padding: 5px;
+     width: 200px;
+
+} 
