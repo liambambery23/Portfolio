@@ -10,11 +10,11 @@ This project is a work in progress as I work my way through the coding bootcamp 
 
  
 ## Screenshots
-This project can be viewed at the following url: 
+This project can be viewed at the following url: https://liambambery23.github.io/Portfolio/
 
-![screenshot of Index.html] (assets/images/Index-page.png)
-![screenshotofPortfolio.html] (assets/images/portfolio-page.png)
-![screenshotofContact.html] (assets/images/contact-page.png)
+![screenshot of Index.html](assets/images/Index-page.png)
+![screenshot of Portfolio.html](assets/images/portfolio-page.png)
+![screenshot of Contact.html](assets/images/contact-page.png)
 
 ## Tech/framework used
 Built with Bootstrap: https://getbootstrap.com/
