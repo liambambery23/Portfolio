@@ -1,1 +1,22 @@
 # Portfolio
+
+In this project I constructed a web based portfolio about myself. There are three main pages; Index (which is the home page), Portfolio, and Contact. On the Index page I have included short bio about myself. On the Portfolio page there are currently "Coming Soon" images that do not link to anything, but as I complete more projects I will update these links. On the contact page there is a contact form and links to my LinkedIn and Github accounts. 
+
+## Motivation
+The purpose of this project is to showcase my skills as a Full Stack Developer.
+
+## Build status
+This project is a work in progress as I work my way through the coding bootcamp I am currently enrolled in.
+
+ 
+## Screenshots
+This project can be viewed at the following url: 
+
+![screenshot of Index.html] (assets/images/Index-page.png)
+![screenshotofPortfolio.html] (assets/images/portfolio-page.png)
+![screenshotofContact.html] (assets/images/contact-page.png)
+
+## Tech/framework used
+Built with Bootstrap: https://getbootstrap.com/
+
+
