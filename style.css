@@ -1,5 +1,6 @@
 .navbar-brand {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Signika', sans-serif;
+    font-size: 25px;
 }
 
 .nav-item {
@@ -18,4 +19,7 @@
     margin: 20px;
 }
 
+h1 {
+    font-family: 'Signika', sans-serif;;
+}
 
