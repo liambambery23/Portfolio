@@ -1,11 +1,35 @@
+body {
+    background-color: #9EC5AB;
+}
+
 .navbar-brand {
     font-family: 'Signika', sans-serif;
     font-size: 25px;
+    color: #011502;
+}
+
+.navbar-brand:hover {
+    color: #011502;
+    opacity: 50%;
+}
+
+.navbar {
+    background-color: #104F55 !important;
+    color: #32746D !important;
 }
 
 .nav-item {
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
+    color: #011502;
+}
+.nav-link {
+    color: #011502;
+}
+
+.nav-link:hover {
+    color: #011502;
+    opacity: 50%;
 }
 
 #contact-form {
@@ -23,3 +47,17 @@ h1 {
     font-family: 'Signika', sans-serif;;
 }
 
+.card-img-top {
+    width: 200px;
+    height: 200px;
+}
+
+.card {
+    padding: 20px;
+}
+
+/* .sec {
+    background-color: lightskyblue;
+    padding: 10px;
+    
+} */
