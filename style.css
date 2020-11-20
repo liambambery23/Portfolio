@@ -1,12 +1,25 @@
 body {
     background-color: #9EC5AB;
     font-family: 'Roboto', sans-serif;
+    min-height: 400px;
+    margin-bottom: 100px;
+    clear: both;
 }
 
 .navbar-brand {
     font-family: 'Signika', sans-serif;
     font-size: 30px;
     color: #FFBA49;
+}
+
+a {
+    color: #104F55;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #104F55;
+    opacity: 50%;
 }
 
 .navbar-brand:hover {
@@ -37,8 +50,9 @@ body {
 }
 
 #contact-form {
-    background-color: #104F55;
+    background-color: #80B391;
     padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 p, label, .card-link, .submitBtn {
@@ -66,22 +80,30 @@ h2{
 
 .card {
     padding: 20px;
-    background-color: #104F55
+    background-color: #80B391
 }
 
 .sec {
-    background-color: #ffffff;
+    background-color: #80B391;
     padding: 15px;
+}
 
-    
+.abt-me {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .card-group {
     background-color: #104F55 !important;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-.contact-card {
-    padding: 5px;
+.social-card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.social-card a {
+    font-weight: normal;
+    color: #104F55;
 }
 
 .footer {
@@ -95,4 +117,9 @@ h2{
     text-align: center;
     border-top: 1px solid black;
     box-shadow: 10px 0px 0px 0 rgba(10, 10, 10, 1), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ }
+
+ .footer a {
+     color:  #80B391;
+     font-weight: normal;
  }
