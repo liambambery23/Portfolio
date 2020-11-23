@@ -1,6 +1,6 @@
 # Portfolio
 
-In this project I constructed a web based portfolio about myself. There are three main pages; Index (which is the home page), Portfolio, and Contact. On the Index page I have included short bio about myself. On the Portfolio page there are currently "Coming Soon" images that do not link to anything, but as I complete more projects I will update these links. On the contact page there is a contact form and links to my LinkedIn and Github accounts. 
+In this project I constructed a web based portfolio about myself. There are three main pages; Index (which is the home page), Portfolio, and Contact. On the Index page I have included short bio about myself. On the Portfolio page you can find examples of some of the projects I have worked on, including screenshots and links to the applications. On the contact page there is a contact form and links to my LinkedIn and Github accounts. 
 
 ## Motivation
 The purpose of this project is to showcase my skills as a Full Stack Developer.
